@@ -107,11 +107,11 @@ main {
 
 .description {
   margin: 0 auto;
-  max-width: 120rem;
+  max-width: 90rem;
   font-size: 3rem;
   text-transform: uppercase;
   line-height: 1.8;
-  text-align: center;
+  text-align: left;
   padding: 2rem
 }
 
